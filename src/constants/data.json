@@ -1,0 +1,226 @@
+{
+    "home" : {
+        "title" : "Selamat Datang di DimCheezy",
+        "slogan" : "Crispy diluar, Lumer didalam!",
+        "description" : "DimCheezy adalah usaha kuliner yang berfokus pada penyajian dimsum berkualitas dengan cita rasa autentik. Kami berkomitmen untuk menghadirkan dimsum dengan bahan-bahan berkualitas tinggi dan resep istimewa. Dengan berbagai varian dimsum keju lumer yang lezat, kami ingin memberikan pengalaman kuliner yang memuaskan bagi pelanggan kami, baik di Bekasi maupun di seluruh Indonesia.",
+        "toko" :{
+            "name" : "DIMCHEEZY",
+            "description" : "DimCheezy adalah kedai kecil kami yang bertempat di Kampus Universitas Dian Nusantara Cibubur. Kami menyediakan berbagai jenis dimsum keju lumer dengan cita rasa yang lezat dan harga terjangkau."
+        },
+        "feature" : {
+            "title" : "KEUNGGULAN DAN KEUNIKAN DIMCHEEZY",
+            "description" : "Dimsum adalah makanan ringan khas Tiongkok yang terbuat dari adonan tepung dan isian seperti ayam, udang, atau keju, kemudian dikukus atau digoreng hingga matang. Dimsum dikenal dengan teksturnya yang lembut dan cita rasa yang gurih.\n\nBerbeda dari produk lainnya, kami berinovasi menciptakan produk dimsum dengan berbagai varian kekinian yang sesuai dengan cita rasa konsumen masa kini, seperti keju lumer dan kuah creamy yang menggugah selera."
+        }
+    },
+    "about_us" : {
+        "struktur_organisasi" : {
+            "ketua" : {
+                "nama" : "Niluh Ketut Ariasih",
+                "jabatan" : "General Manager"
+            },
+            "sekretaris" : {
+                "nama" : "Syania Fitriani",
+                "jabatan" : "Manager Operasional"
+            },
+            "bendahara" : {
+                "nama" : "Msy. Fadila",
+                "jabatan" : "Manager Marketing and SDM"
+            }
+        },
+        "title" : "Tentang Kami",
+        "description" : "Dimsum telah menjadi makanan favorit di berbagai kalangan, termasuk di Bekasi.\n\nKenapa Harus DimCheezy?\n\n1. Makanan Populer dengan Pasar Luas\n\nMembuka usaha dimsum autentik dengan cita rasa gurih dan unik yang digemari berbagai kalangan, merupakan upaya menghadirkan kuliner lezat yang bisa dinikmati siapa saja. Dengan strategi pemasaran yang tepat, DimCheezy bisa menjadi makanan yang diminati oleh berbagai kalangan.\n\n2. Potensi Bisnis yang Menjanjikan\n\nDimsum memiliki margin keuntungan yang cukup baik dengan bahan baku yang tidak sulit didapat. Selain itu, variasi dimsum seperti dimsum original, keju lumer, atau mix bisa menarik pelanggan dari berbagai selera.\n\n3. Model Bisnis yang Bisa Disesuaikan\n\nDimsum dapat dijual dalam berbagai bentuk: makanan siap saji, paket frozen untuk pelanggan yang ingin menyimpan lebih lama, atau bahkan dikemas sebagai oleh-oleh khas Bekasi yang unik.",
+        "tujuan" : {
+            "title" : "Tujuan kami mendirikan DimCheezy",
+            "description" : "Tujuan usaha ini adalah menghadirkan dimsum dengan cita rasa autentik dan inovatif kepada pecinta kuliner. Bukan hanya makanan lezat yang kami tawarkan, tetapi juga pengalaman bisnis yang mendidik dan peluang ekonomi yang berkelanjutan. Selain itu, bisnis dimsum ini melatih untuk berpikir kreatif, melakukan pemasaran, memahami risiko usaha, dan belajar beradaptasi dengan pasar. Ini adalah langkah awal untuk menjadi wirausaha sukses di masa depan."
+        }
+    },
+    "catalog_product" : {
+        "title" : "Katalog Produk",
+        "description" : "Berikut adalah beberapa produk unggulan dari DimCheezy yang bisa Anda nikmati:",
+        "products" : [
+            {
+                "name" : "DimGor Ori",
+                "description" : "DimGor Ori adalah jenis dimsum goreng yang memiliki cita rasa original. Isinya ada 4 pcs.",
+                "price" : "Rp 17.000",
+                "image" : "https://media.karousell.com/media/photos/products/2025/7/18/dimsum_goreng_fresh_90isi_ayam_1752838518_32979e8d_progressive.jpg",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-ori.jpg",
+                    "image2" : "https://example.com/images/dimgor-ori-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-ori-3.jpg"
+                }
+            },
+            {
+                "name" : "DimGor Keju Lumer",
+                "description" : "DimGor Keju Lumer adalah jenis dimsum goreng yang di dalamnya terdapat keju lumer, memberikan rasa gurih dan lezat yang cocok untuk pecinta keju. Isinya ada 4 pcs.",
+                "price" : "Rp 20.000",
+                "image" : "https://media.karousell.com/media/photos/products/2025/9/13/dimsum_goreng_keju_crot_1757759608_ed76ed26_progressive.jpg",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-keju.jpg",
+                    "image2" : "https://example.com/images/dimgor-keju-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-keju-3.jpg"
+                }
+            },
+            {
+                "name" : "DimGor Mix",
+                "description" : "DimGor Mix adalah jenis dimsum goreng yang dicampur dengan DimGor Ori dan DimGor Keju Lumer. Isinya ada 4 pcs.",
+                "price" : "Rp 19.000",
+                "image" : "https://media.karousell.com/media/photos/products/2025/7/18/dimsum_goreng_fresh_90isi_ayam_1752838518_391af5d4_progressive.jpg",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-mix.jpg",
+                    "image2" : "https://example.com/images/dimgor-mix-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-mix-3.jpg"
+                }
+            },
+            {
+                "name" : "DimGor Ori Kuah Creamy",
+                "description" : "DimGor Ori Kuah Creamy adalah jenis dimsum goreng yang disajikan dengan kuah creamy yang lezat, memberikan sensasi rasa yang berbeda dari dimsum goreng biasa.",
+                "price" : "Rp 23.000",
+                "image" : "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/adada1ce-4c3f-4110-bb61-b817dff918a3_Go-Food-Merchant_20251205_174451.jpeg?auto=format",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-ori-creamy.jpg",
+                    "image2" : "https://example.com/images/dimgor-ori-creamy-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-ori-creamy-3.jpg"
+                }
+            },
+             {
+                "name" : "DimGor Keju Kuah Creamy",
+                "description" : "DimGor Keju Kuah Creamy adalah jenis dimsum goreng yang di dalamnya terdapat keju lumer dan disajikan dengan kuah creamy yang lezat, memberikan sensasi rasa yang berbeda dari dimsum goreng biasa.",
+                "price" : "Rp 25.000",
+                "image" : "https://image.idntimes.com/post/20251102/small-vecteezy_pork-wonton-soup-or-pork-dumplings-soup-with-roasted-chili_2529653_small_8bc733e5-43a1-44be-ac25-fc5e99290cb4.jpg",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-keju-creamy.jpg",
+                    "image2" : "https://example.com/images/dimgor-keju-creamy-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-keju-creamy-3.jpg"
+                }
+            },
+            {
+                "name" : "DimGor Mix Kuah Creamy",
+                "description" : "DimGor Mix Kuah Creamy adalah jenis dimsum goreng yang dicampur dengan DimGor Ori dan DimGor Keju Lumer serta disajikan dengan kuah creamy yang lezat, memberikan sensasi rasa yang berbeda dari dimsum goreng biasa.",
+                "price" : "Rp 24.000",
+                "image" : "https://img-global.cpcdn.com/recipes/e830e8cdaa840d96/300x426f0.5_0.5_1.0q80/dimsum-kuah-creamy-sat-set-foto-resep-utama.jpg",
+                "images" : {
+                    "image1" : "https://example.com/images/dimgor-mix-creamy.jpg",
+                    "image2" : "https://example.com/images/dimgor-mix-creamy-2.jpg",
+                    "image3" : "https://example.com/images/dimgor-mix-creamy-3.jpg"
+                }
+            },
+            {
+                "name" : "Chili Oil",
+                "description" : "Chili Oil adalah minyak pedas yang terbuat dari campuran minyak goreng dan cabai, memberikan rasa pedas yang menggugah selera. Cocok untuk menambah cita rasa pada berbagai hidangan, termasuk dimsum goreng kami.",
+                "price" : "Rp 2.000",
+                "image" : "https://p16-images-sign-sg.tokopedia-static.net/tos-alisg-i-aphluv4xwc-sg/3b69c79afd974a34ba71b9f715202b4f~tplv-aphluv4xwc-white-pad-v1:1600:1600.jpeg?lk3s=0ccea506&x-expires=1777441959&x-signature=vzen2fWndJIc2IpyFdoJFxue1ZQ%3D&x-signature-webp=zJQTYoaZkUwjtfaLLMufWnboLeg%3D",
+                "images" : {
+                    "image1" : "https://example.com/images/chili-oil.jpg",
+                    "image2" : "https://example.com/images/chili-oil-2.jpg",
+                    "image3" : "https://example.com/images/chili-oil-3.jpg"
+                }
+            }
+        ]
+    },
+    "contact_us" : {
+        "title" : "Hubungi Kami",
+        "jadwal" : {
+            "title" : "Jam Operasional",
+            "body1" : "Senin - Jumat: 10.00 - 20.00",
+            "body2" : "Sabtu - Minggu: 10.00 - 22.00",
+            "body3" : ""
+        },
+        "orders" : {
+            "title" : "Cara Pemesanan",
+            "body1" : "Pemesanan dapat dilakukan melalui WhatsApp, Instagram, atau email kami.",
+            "body2" : "Pastikan untuk menyebutkan jenis dimsum, jumlah, dan waktu pengambilan atau pengiriman yang diinginkan."
+        },
+        "location" : {
+            "title" : "Lokasi Pengambilan",
+            "body1" : "Kampus Universitas Dian Nusantara Cibubur",
+            "body2" : "Bisa dikirim dengan [Go-Send]"
+        },
+        "contact" : {
+            "whatsapp" : "+6285774750720",
+            "instagram" : "@dimsum.tales",
+            "email" : "dimcheezy@gmail.com"
+        }
+    },
+    "testimonials" : {
+        "title" : "Testimoni Pelanggan",
+        "description" : "Berikut adalah beberapa testimoni dari pelanggan setia DimCheezy yang telah menikmati kelezatan produk kami:",
+        "testimonials_list" : [
+            {
+                "name" : "Andi",
+                "feedback" : "DimCheezy benar-benar enak! Keju lumernya pas dan dimsumnya lembut. Saya pasti akan pesan lagi!",
+                "image" : "https://example.com/images/testimonial-andi.jpg"
+            },
+            {
+                "name" : "Sari",
+                "feedback" : "Saya suka sekali variasi dimsum yang ditawarkan. DimGor Keju Lumer favorit saya, rasanya gurih dan lezat!",
+                "image" : "https://example.com/images/testimonial-sari.jpg"
+            },
+            {
+                "name" : "Budi",
+                "feedback" : "Pelayanan cepat dan ramah. DimCheezy selalu menjadi pilihan utama saya untuk dimsum di Bekasi!",
+                "image" : "https://example.com/images/testimonial-budi.jpg"
+            },
+            {
+                "name" : "Rina",
+                "feedback" : "Saya sangat merekomendasikan DimCheezy! Rasa autentik dan kualitasnya selalu konsisten. Tidak pernah mengecewakan!",
+                "image" : "https://example.com/images/testimonial-rina.jpg"
+            },
+            {
+                "name" : "Dewi",
+                "feedback" : "DimCheezy adalah pilihan terbaik untuk dimsum di Bekasi. Kuah creamynya enak dan dimsumnya selalu segar. Saya sangat puas dengan produk ini!",
+                "image" : "https://example.com/images/testimonial-dewi.jpg"
+            },
+            {
+                "name" : "Zaid",
+                "feedback" : "Saya sudah mencoba banyak dimsum di Bekasi, tapi DimCheezy adalah yang terbaik! Rasa autentik dan pelayanan yang luar biasa membuat saya selalu kembali untuk memesan lagi.",
+                "image" : "https://example.com/images/testimonial-zaid.jpg"
+            }
+        ]
+    },
+    "news" : {
+        "title" : "Berita Terbaru",
+        "description" : "Dapatkan informasi terbaru tentang produk, promosi, dan acara khusus dari DimCheezy di sini!",
+        "news_list" : [
+            {
+                "title" : "Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara",
+                "slug" : "pameran-kewirausahaan-di-lingkungan-kampus-universitas-dian-nusantara",
+                "date" : "2025-06-28",
+                "highlight" : true,
+                "content" : "Sabtu, 28 Juni 2025 kami telah melaksanakan kegiatan Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara (kampus Greenville). Dalam kesempatan ini, kami memamerkan dan memasarkan produk kuliner dimsum dengan brand 'DimCheezy'",
+                "image" : "news.jpg",
+                "details" : {
+                    "title" : "Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara",
+                    "body" : "Sabtu, 28 Juni 2025 kami telah melaksanakan kegiatan Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara (kampus Greenville). Dalam kesempatan ini, kami memamerkan dan memasarkan produk kuliner dimsum dengan brand 'DimCheezy'. Kegiatan ini bertujuan untuk memperkenalkan produk kami kepada mahasiswa dan masyarakat sekitar, serta untuk mendapatkan umpan balik langsung dari pelanggan potensial. Kami sangat senang dengan antusiasme yang ditunjukkan oleh pengunjung, dan kami berharap dapat terus berkembang dan memberikan yang terbaik untuk pelanggan kami di masa depan."
+                },
+                "image1" : {
+                    "image" : "https://example.com/images/pameran-kewirausahaan.jpg",
+                    "caption" : "FOTO BERSAMA IBU ARI APRIANI, S.E.,MM (Dosen Pengampuh Mata Kuliah Kewirausahaan II)"
+                },
+                "image2" : {
+                    "image" : "https://example.com/images/pameran-kewirausahaan-2.jpg",
+                    "caption" : "Booth DimCheezy"
+                },
+                "image3" : {
+                    "image" : "https://example.com/images/pameran-kewirausahaan-3.jpg",
+                    "caption" : "Layanan pelanggan"
+                },
+                "image4" : {
+                    "image" : "https://example.com/images/pameran-kewirausahaan-4.jpg",
+                    "caption" : "Suasana pameran"
+                },
+                "image5" : {
+                    "image" : "https://example.com/images/pameran-kewirausahaan-5.jpg",
+                    "caption" : "Dukungan langsung oleh: Ibu Sigit Margareta, SE.,M.Ak (Ketua Program Studi Akuntansi)"
+                },
+                "video1" : {
+                    "url" : "https://drive.google.com/u/0/drive-viewer/AKGpihZ6hijA5nn4RPNQoABHsWqPhF4Q0zCeh2dCexyaDy4ijh0Edj8y2Kjb431XyNEWazpK7xQzguEJ4RFfCe9v6lMcg_Zac8vk12A=s1600-rw-v1",
+                    "caption" : "Video Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara"
+                },
+                "video2" : {
+                    "url" : "https://drive.google.com/u/0/drive-viewer/AKGpihYBGTf3VuwP0gEI26ySFkGVtbVUt9eyWLACG8VYeE81CI6vU5YxiKVVRcj2JtIrBpWJ3TGQse8-G99PwoQNaNEIObjf3lKa7w=s1600-rw-v1",
+                    "caption" : "Video Pameran Kewirausahaan di lingkungan kampus Universitas Dian Nusantara"
+                }
+            }
+        ]
+    }
+}
